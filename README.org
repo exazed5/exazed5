@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @exazed5
+- Learning nixOS, clojure, cl, el and more.
+
+
